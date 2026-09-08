@@ -46,6 +46,9 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 **Cloud & Infrastructure**
 `AWS` `Azure` `Google Cloud Platform` `Terraform` `Linux` `Cisco`
 
+**Collaboration & File Sharing**
+`Microsoft 365` `Google Workspace` `Egnyte`
+
 **Security & Compliance**
 `Vanta` `CrowdStrike` `Microsoft Defender` `Sophos` `Palo Alto` `KnowBe4`
 
