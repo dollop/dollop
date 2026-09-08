@@ -1,10 +1,19 @@
 <h1 align="center">Hi, I'm Robert Burns 👋</h1>
 <h3 align="center">IT & Security Executive | CISSP • CISM | 20+ Years Building Secure, Scalable Technology Organizations</h3>
+<p align="center"><i>"The best technology decisions are ultimately human ones."</i></p>
 
 <p align="center">
-  <a href="http://www.linkedin.com/in/dollop/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:robert.burns@dollop.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Based%20in-San%20Francisco%2C%20CA-lightgrey?style=flat" />
+  <a href="https://www.linkedin.com/in/dollop/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:robert.burns@dollop.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Robert" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-San%20Francisco%2C%20CA-lightgrey?style=flat" alt="Based in San Francisco, CA" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-20%2B%20Years-24292F?style=flat" alt="20+ Years Experience" />
+  <img src="https://img.shields.io/badge/Teams%20Led-1%20to%2030%2B-24292F?style=flat" alt="Teams Led from 1 to 30+" />
+  <img src="https://img.shields.io/badge/Employees%20Supported-2%2C000%2B-24292F?style=flat" alt="2,000+ Employees Supported" />
+  <img src="https://img.shields.io/badge/Global%20Offices-15-24292F?style=flat" alt="15 Global Offices" />
+  <img src="https://img.shields.io/badge/M%26A%20Integrations-6-24292F?style=flat" alt="6 M&A Integrations" />
 </p>
 
 ---
@@ -41,16 +50,16 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 `Vanta` `CrowdStrike` `Microsoft Defender` `Sophos` `Palo Alto` `KnowBe4`
 
 **OSINT & Intelligence**
-`OSINT` `Shodan` `Third-Party & Public APIs`
+`Shodan` `Threat Intelligence` `Third-Party & Public APIs`
+
+**AI & Productivity**
+`Claude (Claude Code)` `ChatGPT` `Microsoft Copilot` `GitHub Copilot`
 
 **Endpoint & Systems Management**
 `Jamf` `JumpCloud` `Intune` `SCCM` `Commvault`
 
 **ITSM / Ticketing**
 `Jira Service Management` `Zendesk` `Freshservice`
-
-**AI Tools**
-`Claude (Claude Code)` `ChatGPT` `Microsoft Copilot` `GitHub Copilot`
 
 **Scripting & Automation**
 `Python` `Bash` `PowerShell`
@@ -87,6 +96,6 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 
 ### 📫 Let's Connect
 
-The fastest way to reach me is [LinkedIn](http://www.linkedin.com/in/dollop/) or [email](mailto:robert.burns@dollop.com) — I'm based in San Francisco, CA, and always happy to talk shop, security programs, or the next role.
+The fastest way to reach me is [LinkedIn](https://www.linkedin.com/in/dollop/) or [email](mailto:robert.burns@dollop.com) — I'm based in San Francisco, CA, and always happy to talk shop, security programs, or the next role.
 
 <p align="center"><i>Actively interviewing for VP/Head of IT, CISO/Head of Security, Director-level IT & Security, and Head of GRC roles.</i></p>
