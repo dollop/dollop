@@ -50,6 +50,14 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 
 ---
 
+### 🚀 Selected Work
+
+**[NIST CSF 2.0 Assessment](https://csf.dollop.com)** — A guided self-assessment tool that scores an organization across all 6 Functions, 22 Categories, and 106 Subcategories of the NIST Cybersecurity Framework 2.0, then turns the results into a prioritized, board-ready gap report.
+
+**[dollop.com](https://www.dollop.com)** — IT & security leadership site, project archive, and the best place to reach me.
+
+---
+
 ### 📈 Career Snapshot
 
 | Role | Organization | Focus |
@@ -72,8 +80,6 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 
 ### 📫 Let's Connect
 
-- LinkedIn: [linkedin.com/in/dollop](http://www.linkedin.com/in/dollop/)
-- Email: robert.burns@dollop.com
-- San Francisco, CA
+The fastest way to reach me is [LinkedIn](http://www.linkedin.com/in/dollop/) or [email](mailto:robert.burns@dollop.com) — I'm based in San Francisco, CA, and always happy to talk shop, security programs, or the next role.
 
-<p align="center"><i>Open to VP/Head of IT, CISO, Director of IT/Security, and Head of GRC roles.</i></p>
+<p align="center"><i>Actively interviewing for VP/Head of IT, CISO/Head of Security, Director-level IT & Security, and Head of GRC roles.</i></p>
