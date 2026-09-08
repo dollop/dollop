@@ -30,8 +30,8 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 
 - **Governance, Risk & Compliance** — SOC 2 Type II, ISO 27001, HIPAA, SOX ITGC, NIST CSF/800-53, GDPR
 - **Full-Spectrum IT Ownership** — Equally comfortable as the solo operator racking hardware and running cable to stand up a new office, and as the executive leading a 30-person global team — I've moved between the two more than once, by choice, not necessity
-- **Security Leadership** — Security architecture, IAM, endpoint protection/EDR, vendor & third-party risk, incident response
-- **IT Infrastructure & Operations** — Cloud (AWS, Azure), Active Directory (multi-forest/international), datacenter design, patch management
+- **Security Leadership** — Security architecture, IAM, endpoint protection/EDR, vulnerability management, vendor & third-party risk, incident response
+- **IT Infrastructure & Operations** — Cloud (AWS, Azure), Active Directory (multi-forest/international), datacenter design, patch management, IT asset & software license management
 - **M&A & Transformation** — Six M&A system integrations averaging 60 days vs. a 90-day plan
 - **Team & Budget Leadership** — Built and led teams from 1 to 30+; owned multi-million-dollar budgets
 - **Executive Communication** — Direct board and executive leadership liaison on security and risk
