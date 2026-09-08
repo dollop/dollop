@@ -34,16 +34,22 @@ I'm currently exploring new **VP/Head of IT, CISO/Head of Security, Director-lev
 `Okta (Design Partner)` `Microsoft Entra ID` `Active Directory` `SAML 2.0` `OIDC` `OAuth 2.0` `SCIM`
 
 **Cloud & Infrastructure**
-`AWS` `Azure` `Terraform` `Linux` `Cisco`
+`AWS` `Azure` `Google Cloud Platform` `Terraform` `Linux` `Cisco`
 
 **Security & Compliance**
 `Vanta` `CrowdStrike` `Microsoft Defender` `Sophos` `Palo Alto` `KnowBe4`
+
+**OSINT & Intelligence**
+`OSINT` `Shodan` `Third-Party & Public APIs`
 
 **Endpoint & Systems Management**
 `Jamf` `JumpCloud` `Intune` `SCCM` `Commvault`
 
 **ITSM / Ticketing**
 `Jira Service Management` `Zendesk` `Freshservice`
+
+**AI Tools**
+`Claude (Claude Code)` `ChatGPT` `Microsoft Copilot` `GitHub Copilot`
 
 **Scripting & Automation**
 `Python` `Bash` `PowerShell`
